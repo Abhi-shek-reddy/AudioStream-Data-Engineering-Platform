@@ -11,7 +11,6 @@ This project demonstrates a complete modern Data Engineering workflow including 
 The solution is designed to be scalable, dynamic, and production-ready while following industry best practices such as incremental loading, dimensional modeling, Delta Lake architecture, and cloud-native orchestration.
 
 ---
-
 # Architecture
 
 Source Music Streaming Data
